@@ -1,0 +1,7 @@
+*.vs
+Debug/
+Схемка.drawio
+Main.sln
+Main.vcxproj
+Main.vcxproj.filters
+Main.vcxproj.user
